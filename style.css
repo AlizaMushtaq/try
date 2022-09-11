@@ -1,0 +1,36 @@
+.background{
+    background-image: url(https://wallpaperaccess.com/full/5227230.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+ 
+}
+.background1{
+    background-image: url(https://wallpaperaccess.com/full/626899.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    
+
+
+}
+.para{
+    display: flex;
+    align-items: stretch;
+    padding-right: 20px;
+
+}
+.background2{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX/tsFHHvIvAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=);
+
+}
+.categories{
+    color: white;
+}
+.background3{
+    background-color: white;
+}
